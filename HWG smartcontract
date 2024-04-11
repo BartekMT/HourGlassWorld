@@ -1,0 +1,18 @@
+"root":{10 items
+"key":int4
+"updateAuthority":string"7Kjo4QRMwhErk3Lup1EzLtTAgwWmChrYnHg8cAzpTb8w"
+"mint":string"F2wyWwn3UE54DGNqmcFaqsMCT8WV5Zvi8Xr59YSJ91Bf"
+"data":{5 items
+"name":string"Hourglass World"
+"symbol":string"HWG"
+"uri":string"https://bafkreiak57cpbxz3clwb3ea6hp4p2sq4vbmaa6zvkjse6yr2pvtmgtm4sy.ipfs.nftstorage.link"
+"sellerFeeBasisPoints":int0
+"creators":undefined
+}
+"primarySaleHappened":int0
+"isMutable":int1
+"editionNonce":int251
+"tokenStandard":int2
+"collection":undefined
+"uses":undefined
+}
